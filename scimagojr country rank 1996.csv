@@ -1,0 +1,81 @@
+,Rank,Country,Region,Documents,Citable documents,Citations,Self-citations,Citations per document,H index
+0,1,United States,Northern America,2039,2037,132147,36444,64.81,612
+1,2,Japan,Asiatic Region,535,535,12920,2715,24.15,200
+2,3,United Kingdom,Western Europe,447,446,18875,3599,42.23,334
+3,4,Canada,Northern America,284,283,14291,1582,50.32,263
+4,5,France,Western Europe,273,273,10223,2281,37.45,235
+5,6,Germany,Western Europe,249,249,5356,1053,21.51,264
+6,7,Italy,Western Europe,225,224,4369,843,19.42,205
+7,8,Taiwan,Asiatic Region,188,188,6133,1401,32.62,199
+8,9,Australia,Pacific Region,160,160,6032,509,37.7,231
+9,10,South Korea,Asiatic Region,154,154,2589,313,16.81,169
+10,11,China,Asiatic Region,119,119,2864,984,24.07,357
+11,12,Spain,Western Europe,106,106,5123,818,48.33,223
+12,13,Israel,Middle East,100,100,5782,550,57.82,176
+13,14,India,Asiatic Region,99,99,3541,624,35.77,186
+14,15,Netherlands,Western Europe,90,89,4218,693,46.87,190
+15,16,Hong Kong,Asiatic Region,81,81,1358,123,16.77,208
+16,17,Singapore,Asiatic Region,63,63,1166,158,18.51,210
+17,18,Sweden,Western Europe,53,53,974,135,18.38,116
+18,19,Switzerland,Western Europe,52,51,1556,93,29.92,193
+19,20,Czech Republic,Eastern Europe,51,51,381,121,7.47,99
+20,21,Finland,Western Europe,50,50,6718,232,134.36,142
+21,22,Greece,Western Europe,48,48,675,167,14.06,129
+22,23,Belgium,Western Europe,46,46,2592,132,56.35,156
+23,24,Austria,Western Europe,42,42,2338,136,55.67,112
+24,25,Poland,Eastern Europe,41,41,1605,329,39.15,120
+25,26,Brazil,Latin America,31,31,642,79,20.71,132
+26,27,Denmark,Western Europe,27,27,1272,84,47.11,92
+27,28,Mexico,Latin America,27,27,180,43,6.67,106
+28,29,Slovenia,Eastern Europe,26,26,392,42,15.08,87
+29,30,Russian Federation,Eastern Europe,24,24,305,83,12.71,69
+30,31,Egypt,Africa/Middle East,23,23,331,21,14.39,100
+31,32,Turkey,Middle East,20,20,456,78,22.8,172
+32,33,Portugal,Western Europe,20,20,570,40,28.5,116
+33,34,Hungary,Eastern Europe,18,18,254,31,14.11,71
+34,35,Norway,Western Europe,15,15,1700,30,113.33,80
+35,36,New Zealand,Pacific Region,15,15,262,37,17.47,95
+36,37,Slovakia,Eastern Europe,14,14,779,71,55.64,61
+37,38,Romania,Eastern Europe,12,12,36,16,3.0,70
+38,39,Bulgaria,Eastern Europe,11,11,111,16,10.09,39
+39,40,Saudi Arabia,Middle East,10,10,225,10,22.5,116
+40,41,South Africa,Africa,9,9,292,8,32.44,69
+41,42,Ireland,Western Europe,9,9,86,8,9.56,87
+42,43,Iran,Middle East,8,8,233,57,29.13,137
+43,44,Serbia,Eastern Europe,7,7,75,20,10.71,60
+44,45,Croatia,Eastern Europe,6,6,8,6,1.33,50
+45,46,Thailand,Asiatic Region,5,5,21,8,4.2,62
+46,47,Ukraine,Eastern Europe,4,4,169,21,42.25,35
+47,48,Chile,Latin America,4,4,154,29,38.5,69
+48,49,Argentina,Latin America,4,4,2,0,0.5,50
+49,50,Cyprus,Western Europe,4,4,76,11,19.0,39
+50,51,Jordan,Middle East,4,4,78,4,19.5,67
+51,52,Morocco,Africa,3,3,587,16,195.67,45
+52,53,Cuba,Latin America,3,3,27,9,9.0,36
+53,54,Colombia,Latin America,3,3,40,0,13.33,50
+54,55,Kuwait,Middle East,3,3,137,4,45.67,40
+55,56,Lebanon,Middle East,3,3,59,9,19.67,39
+56,57,Belarus,Eastern Europe,3,3,13,1,4.33,21
+57,58,Kenya,Africa,2,2,1,0,0.5,15
+58,59,Jamaica,Latin America,2,2,22,0,11.0,10
+59,60,Venezuela,Latin America,2,2,10,7,5.0,33
+60,61,Bangladesh,Asiatic Region,2,2,12,1,6.0,50
+61,62,Peru,Latin America,1,1,4,0,4.0,21
+62,63,Congo,Africa,1,1,0,0,0.0,2
+63,64,Democratic Republic Congo,Africa,1,1,126,0,126.0,2
+64,65,Latvia,Eastern Europe,1,1,0,0,0.0,18
+65,66,Lithuania,Eastern Europe,1,1,71,1,71.0,42
+66,67,Indonesia,Asiatic Region,1,1,7,0,7.0,45
+67,68,Kazakhstan,Asiatic Region,1,1,14,1,14.0,23
+68,69,Brunei Darussalam,Asiatic Region,1,1,3,1,3.0,16
+69,70,Benin,Africa,1,1,5,0,5.0,6
+70,71,Bahrain,Middle East,1,1,4,0,4.0,20
+71,72,Tunisia,Africa,1,1,15,2,15.0,52
+72,73,Algeria,Africa,1,1,0,0,0.0,64
+73,74,Estonia,Eastern Europe,1,1,1,0,1.0,29
+74,75,Azerbaijan,Eastern Europe,1,1,4,0,4.0,30
+75,76,Malaysia,Asiatic Region,1,1,3,1,3.0,120
+76,77,Cameroon,Africa,1,1,4,1,4.0,17
+77,78,Malta,Western Europe,1,1,151,1,151.0,29
+78,79,Macedonia,Eastern Europe,1,1,6,0,6.0,22
+79,80,Ghana,Africa,1,1,6,0,6.0,19
